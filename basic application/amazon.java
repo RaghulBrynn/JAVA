@@ -2,9 +2,6 @@
 import java.util.*;
 
 import javax.lang.model.util.ElementScanner14;
-
-
-
 public class amazon {
    static Scanner sc=new Scanner(System.in);
    static ArrayList <Vendor> ven=new ArrayList<>();
@@ -13,7 +10,6 @@ public class amazon {
    static ArrayList <Customer> cust=new ArrayList<>();
    static ArrayList <Product> all_prod=new ArrayList<>();
    static int index_v,index_c,index1,indexi,indexj;
-   
     public static void main(String[] args) {
         
         home();
